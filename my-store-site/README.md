@@ -3,7 +3,6 @@ React E-Commerce site
 used - 
 - useEffect
 - useState
-- useRef
 - useParams 
 - props
 - react router dom
